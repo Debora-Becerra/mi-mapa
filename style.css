@@ -1,0 +1,64 @@
+/* Estilos base del cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Ocultar la atribución de Leaflet */
+.leaflet-control-attribution {
+    display: none !important;
+}
+
+.card .btn {
+    background-color: #008FC3;
+    color: #fff;
+}
+
+.card .btn:hover {
+    background-color: #0077A5; /* Un tono más oscuro para el efecto hover */
+}
+
+/*color del título de las tarjetas*/
+.text-primary {
+    color: #008FC3 !important;
+}
+
+#sidePanel h5 {
+    color: #008FC3;
+    font-weight: bold; /* Resalta el texto */
+}
+
+/*AJUSTA EL TAMAÑO DE LA LETRA DE GIF CARD*/
+.card .card-text {
+    font-size: 0.9rem; /* Ajusta según lo que prefieras, puedes probar 0.85rem o 1rem */
+    color: #555; /* Un color gris para un contraste agradable */
+    line-height: 1.4; /* Mejora la legibilidad */
+}
+
+/*BOTONES BUSCAR, LIMPIAR*/
+/* Estilo base para los botones */
+.search-container button {
+    background-color: #F3F3F2; /* Color base inicial */
+    color: black; /* Color del texto inicial */
+    border: 1px solid #008FC3; /* Bordes acordes al diseño */
+    transition: background-color 0.3s, color 0.3s; /* Transición suave para el hover */
+}
+
+/* Hover para los botones */
+.search-container button:hover {
+    background-color: #008FC3; /* Fondo azul en hover */
+    color: white; /* Texto blanco en hover */
+}
+
+/* Opcional: input estilizado */
+.search-container input {
+    border: 1px solid #008FC3; /* Borde azul */
+    transition: border-color 0.3s;
+}
+
+/* Hover para input (opcional si aplica) */
+.search-container input:focus {
+    border-color: #008FC3;
+    box-shadow: 0 0 4px #008FC3;
+}

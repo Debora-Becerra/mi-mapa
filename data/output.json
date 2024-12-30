@@ -1,0 +1,659 @@
+[
+    {
+        "Direccion":"MADRID 3166",
+        "LOCALIDAD":"ISIDRO CASANOVA",
+        "CP":"1765",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"MADRID 3166 ISIDRO CASANOVA 1765 BUENOS AIRES ",
+        "Latitude":-34.7020299,
+        "Longitude":-58.581563
+    },
+    {
+        "Direccion":"CHASSAING 6626",
+        "LOCALIDAD":"GONZALEZ CATAN",
+        "CP":"1758",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"CHASSAING 6626 GONZALEZ CATAN 1758 BUENOS AIRES ",
+        "Latitude":-34.7769565,
+        "Longitude":-58.6102147
+    },
+    {
+        "Direccion":"DIAG MALDONADO 264",
+        "LOCALIDAD":"CIUDADELA",
+        "CP":"1702",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"DIAG MALDONADO 264 CIUDADELA 1702 BUENOS AIRES ",
+        "Latitude":-34.6374624,
+        "Longitude":-58.5428723
+    },
+    {
+        "Direccion":"AVDA TRIUNVIRATO 5390",
+        "LOCALIDAD":"CIUDAD AUTONOMA BUENOS AIRES",
+        "CP":"1431",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"AVDA TRIUNVIRATO 5390 CIUDAD AUTONOMA BUENOS AIRES 1431 BUENOS AIRES ",
+        "Latitude":-34.569686,
+        "Longitude":-58.492208
+    },
+    {
+        "Direccion":"DR MARIANO BOEDO 266 LOCAL4",
+        "LOCALIDAD":"LOMAS DE ZAMORA",
+        "CP":"1832",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"DR MARIANO BOEDO 266 LOCAL4 LOMAS DE ZAMORA 1832 BUENOS AIRES ",
+        "Latitude":-34.7611823,
+        "Longitude":-58.4302476
+    },
+    {
+        "Direccion":"JOSE SUPERI 3123",
+        "LOCALIDAD":"CIUDAD AUTONOMA BUENOS AIRES",
+        "CP":"1430",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"JOSE SUPERI 3123 CIUDAD AUTONOMA BUENOS AIRES 1430 BUENOS AIRES ",
+        "Latitude":-34.5587022,
+        "Longitude":-58.4742624
+    },
+    {
+        "Direccion":"DR JUAN BAUTISTA JUSTO 659",
+        "LOCALIDAD":"BECCAR",
+        "CP":"1643",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"DR JUAN BAUTISTA JUSTO 659 BECCAR 1643 BUENOS AIRES ",
+        "Latitude":-34.4630498,
+        "Longitude":-58.534014
+    },
+    {
+        "Direccion":"AVDA JUAN SEGUNDO FERNANDEZ 1318 8",
+        "LOCALIDAD":"SAN ISIDRO",
+        "CP":"1642",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"AVDA JUAN SEGUNDO FERNANDEZ 1318 8 SAN ISIDRO 1642 BUENOS AIRES ",
+        "Latitude":-34.4801987,
+        "Longitude":-58.5535876
+    },
+    {
+        "Direccion":"PRES GRAL JULIO ARGENTINO ROCA 3207",
+        "LOCALIDAD":"CIUDADELA",
+        "CP":"1702",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"PRES GRAL JULIO ARGENTINO ROCA 3207 CIUDADELA 1702 BUENOS AIRES ",
+        "Latitude":-34.6525188,
+        "Longitude":-58.5402408
+    },
+    {
+        "Direccion":"25 de mayo 13",
+        "LOCALIDAD":"EZEIZA",
+        "CP":"1804",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"25 de mayo 13 EZEIZA 1804 BUENOS AIRES ",
+        "Latitude":-34.8504213,
+        "Longitude":-58.5236975
+    },
+    {
+        "Direccion":"Paso de la Patria 266",
+        "LOCALIDAD":"EZEIZA",
+        "CP":"1804",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Paso de la Patria 266 EZEIZA 1804 BUENOS AIRES ",
+        "Latitude":-34.8548529,
+        "Longitude":-58.5210616
+    },
+    {
+        "Direccion":"Espa\u00f1a 103",
+        "LOCALIDAD":"MORENO",
+        "CP":"1744",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Espa\u00f1a 103 MORENO 1744 BUENOS AIRES ",
+        "Latitude":-34.6490035,
+        "Longitude":-58.7897157
+    },
+    {
+        "Direccion":"Libertad 735",
+        "LOCALIDAD":"MERLO",
+        "CP":"1722",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Libertad 735 MERLO 1722 BUENOS AIRES ",
+        "Latitude":-34.6667402,
+        "Longitude":-58.7289139
+    },
+    {
+        "Direccion":"diag 73 1598",
+        "LOCALIDAD":"LA PLATA",
+        "CP":"1900",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"diag 73 1598 LA PLATA 1900 BUENOS AIRES ",
+        "Latitude":-34.921305,
+        "Longitude":-57.95007
+    },
+    {
+        "Direccion":"H YRIGOYEN 560",
+        "LOCALIDAD":"Quilmes",
+        "CP":"1878",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"H YRIGOYEN 560 Quilmes 1878 BUENOS AIRES ",
+        "Latitude":-34.7227424,
+        "Longitude":-58.2606066
+    },
+    {
+        "Direccion":"Pi\u00f1ero 977",
+        "LOCALIDAD":"Jose C Paz",
+        "CP":"1660",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Pi\u00f1ero 977 Jose C Paz 1660 BUENOS AIRES ",
+        "Latitude":-34.5071953,
+        "Longitude":-58.7497226
+    },
+    {
+        "Direccion":"San Martin 1804",
+        "LOCALIDAD":"General San Martin",
+        "CP":null,
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"San Martin 1804 General San Martin  BUENOS AIRES ",
+        "Latitude":-34.5797372,
+        "Longitude":-58.5357494
+    },
+    {
+        "Direccion":"AVDA GRAL JOSE DE SAN MARTIN 2278",
+        "LOCALIDAD":"CIUDAD AUTONOMA BUENOS AIRES",
+        "CP":"1416",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"AVDA GRAL JOSE DE SAN MARTIN 2278 CIUDAD AUTONOMA BUENOS AIRES 1416 BUENOS AIRES ",
+        "Latitude":-34.5287114,
+        "Longitude":-58.4932327
+    },
+    {
+        "Direccion":"GRAL SIMON BOLIVAR 1400",
+        "LOCALIDAD":"San Telmo",
+        "CP":"1141",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"GRAL SIMON BOLIVAR 1400 San Telmo 1141 BUENOS AIRES ",
+        "Latitude":-34.6241731,
+        "Longitude":-58.3726161
+    },
+    {
+        "Direccion":"Caaguazu 141",
+        "LOCALIDAD":"Temperley",
+        "CP":"1825",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Caaguazu 141 Temperley 1825 BUENOS AIRES ",
+        "Latitude":-34.7406978,
+        "Longitude":-58.3473947
+    },
+    {
+        "Direccion":"ROMA 562",
+        "LOCALIDAD":"CIUDAD AUTONOMA BUENOS AIRES",
+        "CP":"1408",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"ROMA 562 CIUDAD AUTONOMA BUENOS AIRES 1408 BUENOS AIRES ",
+        "Latitude":-34.6314237,
+        "Longitude":-58.5208011
+    },
+    {
+        "Direccion":"Basavilbaso 540",
+        "LOCALIDAD":"CA\u00d1UELAS",
+        "CP":"1814",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Basavilbaso 540 CA\u00d1UELAS 1814 BUENOS AIRES ",
+        "Latitude":-35.0566436,
+        "Longitude":-58.758747
+    },
+    {
+        "Direccion":"AYACUCHO 53",
+        "LOCALIDAD":"GENERAL RODRIGUEZ",
+        "CP":"1748",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"AYACUCHO 53 GENERAL RODRIGUEZ 1748 BUENOS AIRES ",
+        "Latitude":-34.5990557,
+        "Longitude":-58.9416038
+    },
+    {
+        "Direccion":"MAIPU 1425",
+        "LOCALIDAD":"INGENIERO MASCHWITZ",
+        "CP":"1623",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"MAIPU 1425 INGENIERO MASCHWITZ 1623 BUENOS AIRES ",
+        "Latitude":-34.3889662,
+        "Longitude":-58.7391253
+    },
+    {
+        "Direccion":"Felix Pagola 136",
+        "LOCALIDAD":"Zarate",
+        "CP":"2800",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Felix Pagola 136 Zarate 2800 BUENOS AIRES ",
+        "Latitude":-34.0946592,
+        "Longitude":-59.0259041
+    },
+    {
+        "Direccion":"Blvd. Lavalle 516",
+        "LOCALIDAD":"CAMPANA",
+        "CP":"2804",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Blvd. Lavalle 516 CAMPANA 2804 BUENOS AIRES ",
+        "Latitude":-34.1661872,
+        "Longitude":-58.9636229
+    },
+    {
+        "Direccion":"MITRE 539",
+        "LOCALIDAD":"BELEN DE ESCOBAR",
+        "CP":"1625",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"MITRE 539 BELEN DE ESCOBAR 1625 BUENOS AIRES ",
+        "Latitude":-34.3478711,
+        "Longitude":-58.7939998
+    },
+    {
+        "Direccion":"CHAMPAGNAT 1593",
+        "LOCALIDAD":"LUJAN",
+        "CP":"6700",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"CHAMPAGNAT 1593 LUJAN 6700 BUENOS AIRES ",
+        "Latitude":-34.5653481,
+        "Longitude":-59.1331378
+    },
+    {
+        "Direccion":"BELGRANO 411",
+        "LOCALIDAD":"CAMPANA",
+        "CP":"2804",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"BELGRANO 411 CAMPANA 2804 BUENOS AIRES ",
+        "Latitude":-34.1645513,
+        "Longitude":-58.9582743
+    },
+    {
+        "Direccion":"MERLO 3916",
+        "LOCALIDAD":"VILLA DOMINICO",
+        "CP":"1874",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"MERLO 3916 VILLA DOMINICO 1874 BUENOS AIRES ",
+        "Latitude":-34.680071,
+        "Longitude":-58.3308209
+    },
+    {
+        "Direccion":"CHACABUCO 409",
+        "LOCALIDAD":"PILAR",
+        "CP":"1629",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"CHACABUCO 409 PILAR 1629 BUENOS AIRES ",
+        "Latitude":-34.4559031,
+        "Longitude":-58.9098195
+    },
+    {
+        "Direccion":"COLECTORA OESTE 1733",
+        "LOCALIDAD":"PILAR",
+        "CP":"1619",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"COLECTORA OESTE 1733 PILAR 1619 BUENOS AIRES ",
+        "Latitude":-34.4538379,
+        "Longitude":-58.7335092
+    },
+    {
+        "Direccion":"ITUZAINGO 1172",
+        "LOCALIDAD":"SAN FERNANDO",
+        "CP":"1646",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"ITUZAINGO 1172 SAN FERNANDO 1646 BUENOS AIRES ",
+        "Latitude":-34.4373527,
+        "Longitude":-58.5609756
+    },
+    {
+        "Direccion":"SANTA FE 1679",
+        "LOCALIDAD":"MARTINEZ",
+        "CP":"1640",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"SANTA FE 1679 MARTINEZ 1640 BUENOS AIRES ",
+        "Latitude":-34.5956508,
+        "Longitude":-58.391583
+    },
+    {
+        "Direccion":"CALLE 56 980",
+        "LOCALIDAD":"LA PLATA",
+        "CP":"1900",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"CALLE 56 980 LA PLATA 1900 BUENOS AIRES ",
+        "Latitude":-34.9250318,
+        "Longitude":-57.9533161
+    },
+    {
+        "Direccion":"ENRIQUE DEL VALLE IBERLUCEA 3035",
+        "LOCALIDAD":"LANUES OESTE",
+        "CP":"1826",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"ENRIQUE DEL VALLE IBERLUCEA 3035 LANUES OESTE 1826 BUENOS AIRES ",
+        "Latitude":-34.7085571,
+        "Longitude":-58.3930359
+    },
+    {
+        "Direccion":"ONCATIVO 2098",
+        "LOCALIDAD":"LANUES ESTE",
+        "CP":"1824",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"ONCATIVO 2098 LANUES ESTE 1824 BUENOS AIRES ",
+        "Latitude":-34.7111789,
+        "Longitude":-58.3876776
+    },
+    {
+        "Direccion":"MALVINAS ARGENTINAS 806",
+        "LOCALIDAD":"FLORES",
+        "CP":"1406",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"MALVINAS ARGENTINAS 806 FLORES 1406 BUENOS AIRES ",
+        "Latitude":-34.633096,
+        "Longitude":-58.447904
+    },
+    {
+        "Direccion":"CAP GRAL RAMON FREIRE 902 PB 0005",
+        "LOCALIDAD":"COLEGIALES",
+        "CP":"1426",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"CAP GRAL RAMON FREIRE 902 PB 0005 COLEGIALES 1426 BUENOS AIRES ",
+        "Latitude":-34.5760528,
+        "Longitude":-58.4512029
+    },
+    {
+        "Direccion":"MEDRANO 1648",
+        "LOCALIDAD":"PALERMO",
+        "CP":"1425",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"MEDRANO 1648 PALERMO 1425 BUENOS AIRES ",
+        "Latitude":-34.5903185,
+        "Longitude":-58.4188538
+    },
+    {
+        "Direccion":"SANTIAGO DEL ESTERO 1506",
+        "LOCALIDAD":"CONSTITUCI\u00d3N",
+        "CP":"1136",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"SANTIAGO DEL ESTERO 1506 CONSTITUCI\u00d3N 1136 BUENOS AIRES ",
+        "Latitude":-34.6261812,
+        "Longitude":-58.3842412
+    },
+    {
+        "Direccion":"Calle 66 3244",
+        "LOCALIDAD":"LA PLATA",
+        "CP":"1910",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Calle 66 3244 LA PLATA 1910 BUENOS AIRES ",
+        "Latitude":-35.0059916,
+        "Longitude":-58.0226587
+    },
+    {
+        "Direccion":"De la Paz 313",
+        "LOCALIDAD":"ENSENADA",
+        "CP":"1925",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"De la Paz 313 ENSENADA 1925 BUENOS AIRES ",
+        "Latitude":-34.8587771,
+        "Longitude":-57.9056588
+    },
+    {
+        "Direccion":"Guido 1994",
+        "LOCALIDAD":"RECOLETA",
+        "CP":"1119",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Guido 1994 RECOLETA 1119 BUENOS AIRES ",
+        "Latitude":-34.5885469,
+        "Longitude":-58.3919048
+    },
+    {
+        "Direccion":"Av. Gral. Mosconi 3469, C1419",
+        "LOCALIDAD":"DEVOTO",
+        "CP":"1419",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Av. Gral. Mosconi 3469, C1419 DEVOTO 1419 BUENOS AIRES ",
+        "Latitude":-34.5907943,
+        "Longitude":-58.5098736
+    },
+    {
+        "Direccion":"AVDA GRAL IRIARTE 2462",
+        "LOCALIDAD":"BARRACAS",
+        "CP":"1291",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"AVDA GRAL IRIARTE 2462 BARRACAS 1291 BUENOS AIRES ",
+        "Latitude":-34.6498137,
+        "Longitude":-58.3808857
+    },
+    {
+        "Direccion":"Av. de Mayo 1324, C1085",
+        "LOCALIDAD":"MICROCENTRO",
+        "CP":"1085",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Av. de Mayo 1324, C1085 MICROCENTRO 1085 BUENOS AIRES ",
+        "Latitude":-34.6094588,
+        "Longitude":-58.3852728
+    },
+    {
+        "Direccion":"MALABIA 1295",
+        "LOCALIDAD":"PALERMO",
+        "CP":"1414",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"MALABIA 1295 PALERMO 1414 BUENOS AIRES ",
+        "Latitude":-34.5930895,
+        "Longitude":-58.4303888
+    },
+    {
+        "Direccion":"2 de Abril 819",
+        "LOCALIDAD":"GENERAL RODRIGUEZ",
+        "CP":"1748",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"2 de Abril 819 GENERAL RODRIGUEZ 1748 BUENOS AIRES ",
+        "Latitude":-34.6071415,
+        "Longitude":-58.9520165
+    },
+    {
+        "Direccion":"ALMAFUERTE 1920",
+        "LOCALIDAD":"CASTELAR",
+        "CP":"1708",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"ALMAFUERTE 1920 CASTELAR 1708 BUENOS AIRES ",
+        "Latitude":-34.654465,
+        "Longitude":-58.6331702
+    },
+    {
+        "Direccion":"EVARISTO IGLESIAS 714",
+        "LOCALIDAD":"EZPELETA ESTE",
+        "CP":"1878",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"EVARISTO IGLESIAS 714 EZPELETA ESTE 1878 BUENOS AIRES ",
+        "Latitude":-34.740671,
+        "Longitude":-58.2350307
+    },
+    {
+        "Direccion":"BOULOGNE SUR MER 1275",
+        "LOCALIDAD":"GENERAL PACHECO",
+        "CP":"1617",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"BOULOGNE SUR MER 1275 GENERAL PACHECO 1617 BUENOS AIRES ",
+        "Latitude":-34.4683113,
+        "Longitude":-58.6243064
+    },
+    {
+        "Direccion":"Doctor Alfredo E. Springolo 419",
+        "LOCALIDAD":"VILLA SAENZ PE\u00d1A",
+        "CP":"1674",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Doctor Alfredo E. Springolo 419 VILLA SAENZ PE\u00d1A 1674 BUENOS AIRES ",
+        "Latitude":-34.599332,
+        "Longitude":-58.5279159
+    },
+    {
+        "Direccion":"AVDA LURO 4392",
+        "LOCALIDAD":"LAFERRERE",
+        "CP":"1757",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"AVDA LURO 4392 LAFERRERE 1757 BUENOS AIRES ",
+        "Latitude":-34.735402,
+        "Longitude":-58.6041389
+    },
+    {
+        "Direccion":"COLORADO 10735",
+        "LOCALIDAD":"VIRREY DEL PINO",
+        "CP":"1763",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"COLORADO 10735 VIRREY DEL PINO 1763 BUENOS AIRES ",
+        "Latitude":-34.8801243,
+        "Longitude":-58.6949573
+    },
+    {
+        "Direccion":"TTE GRAL PABLO RICCHIERI 15",
+        "LOCALIDAD":"RAMOS MEJIA",
+        "CP":"1704",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"TTE GRAL PABLO RICCHIERI 15 RAMOS MEJIA 1704 BUENOS AIRES ",
+        "Latitude":-34.6238709,
+        "Longitude":-58.5379753
+    },
+    {
+        "Direccion":"CERVI\u00d1O 3599",
+        "LOCALIDAD":"SAN JUSTO",
+        "CP":"1754",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"CERVI\u00d1O 3599 SAN JUSTO 1754 BUENOS AIRES ",
+        "Latitude":-34.6797487,
+        "Longitude":-58.5761374
+    },
+    {
+        "Direccion":"FRAGA 602",
+        "LOCALIDAD":"MERLO",
+        "CP":"1722",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"FRAGA 602 MERLO 1722 BUENOS AIRES ",
+        "Latitude":-34.6657811,
+        "Longitude":-58.7577675
+    },
+    {
+        "Direccion":"MANUEL ARAUJO 2348",
+        "LOCALIDAD":"CLAYPOLE",
+        "CP":"1849",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"MANUEL ARAUJO 2348 CLAYPOLE 1849 BUENOS AIRES ",
+        "Latitude":-34.8252658,
+        "Longitude":-58.3491934
+    },
+    {
+        "Direccion":"Gral. Conrado Villegas 2885",
+        "LOCALIDAD":"HURLINGAM",
+        "CP":"1686",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Gral. Conrado Villegas 2885 HURLINGAM 1686 BUENOS AIRES ",
+        "Latitude":-34.5879364,
+        "Longitude":-58.6650347
+    },
+    {
+        "Direccion":"TUCUMAN 2601",
+        "LOCALIDAD":"CASTELAR",
+        "CP":"1712",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"TUCUMAN 2601 CASTELAR 1712 BUENOS AIRES ",
+        "Latitude":-34.6395139,
+        "Longitude":-58.644068
+    },
+    {
+        "Direccion":"ALTE GUILLERMO BROWN 338",
+        "LOCALIDAD":"SAN VICENTE",
+        "CP":"B1865GBH",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"ALTE GUILLERMO BROWN 338 SAN VICENTE B1865GBH BUENOS AIRES ",
+        "Latitude":-34.6036844,
+        "Longitude":-58.3815591
+    },
+    {
+        "Direccion":"PEDRO ECHAGUE 704",
+        "LOCALIDAD":"BURZACO",
+        "CP":"B1852KKD",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"PEDRO ECHAGUE 704 BURZACO B1852KKD BUENOS AIRES ",
+        "Latitude":-34.8207841,
+        "Longitude":-58.4144592
+    },
+    {
+        "Direccion":"GUATAMBU 555",
+        "LOCALIDAD":"MALVINAS ARGENTINAS",
+        "CP":"B1851CJK",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"GUATAMBU 555 MALVINAS ARGENTINAS B1851CJK BUENOS AIRES ",
+        "Latitude":-34.8191355,
+        "Longitude":-58.4252323
+    },
+    {
+        "Direccion":"JOSE ORTEGA Y GASSET 1901",
+        "LOCALIDAD":"PALERMO",
+        "CP":"1426",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"JOSE ORTEGA Y GASSET 1901 PALERMO 1426 BUENOS AIRES ",
+        "Latitude":-34.5709011,
+        "Longitude":-58.4334209
+    },
+    {
+        "Direccion":"DR SALVADOR SALLARES 86",
+        "LOCALIDAD":"FLORENCIO VARELA",
+        "CP":"1888",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"DR SALVADOR SALLARES 86 FLORENCIO VARELA 1888 BUENOS AIRES ",
+        "Latitude":-34.8080113,
+        "Longitude":-58.27663
+    },
+    {
+        "Direccion":"ABRAHAM LINCOLN 4212",
+        "LOCALIDAD":"GENERAL SAN MARTIN",
+        "CP":"B1650CHX",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"ABRAHAM LINCOLN 4212 GENERAL SAN MARTIN B1650CHX BUENOS AIRES ",
+        "Latitude":-34.5757521,
+        "Longitude":-58.5370965
+    },
+    {
+        "Direccion":"AVDA MANUEL BELGRANO 2952",
+        "LOCALIDAD":"BALVANERA",
+        "CP":"1214",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"AVDA MANUEL BELGRANO 2952 BALVANERA 1214 BUENOS AIRES ",
+        "Latitude":-34.6150817,
+        "Longitude":-58.4074879
+    },
+    {
+        "Direccion":"CA\u00d1ADA DE GOMEZ 5240",
+        "LOCALIDAD":"VILLA RIACHUELO",
+        "CP":"1001",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"CA\u00d1ADA DE GOMEZ 5240 VILLA RIACHUELO 1001 BUENOS AIRES ",
+        "Latitude":-34.6891116,
+        "Longitude":-58.4696234
+    },
+    {
+        "Direccion":"Tte. Antonio Jukic 420",
+        "LOCALIDAD":"MANZANARES",
+        "CP":"1632",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Tte. Antonio Jukic 420 MANZANARES 1632 BUENOS AIRES ",
+        "Latitude":-34.4547463,
+        "Longitude":-58.9974679
+    },
+    {
+        "Direccion":"AVDA SAN JORGE 375",
+        "LOCALIDAD":"PILAR",
+        "CP":"1629",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"AVDA SAN JORGE 375 PILAR 1629 BUENOS AIRES ",
+        "Latitude":-34.452892,
+        "Longitude":-58.9504543
+    },
+    {
+        "Direccion":"SAYOS 5590",
+        "LOCALIDAD":"VILLA LUGANO",
+        "CP":"1439",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"SAYOS 5590 VILLA LUGANO 1439 BUENOS AIRES ",
+        "Latitude":-34.6769118,
+        "Longitude":-58.4735029
+    },
+    {
+        "Direccion":"Bartolom\u00e9 Mitre 1214",
+        "LOCALIDAD":"SAN NICOL\u00c1S",
+        "CP":"1036",
+        "PROVINCIA":"BUENOS AIRES",
+        "Full Address":"Bartolom\u00e9 Mitre 1214 SAN NICOL\u00c1S 1036 BUENOS AIRES ",
+        "Latitude":-34.6073675,
+        "Longitude":-58.3809093
+    }
+]
